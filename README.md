@@ -41,14 +41,13 @@ Stage 4 is the Capstone Project, the largest and most time-intensive part of you
 
 The Capstone Project is a self-guided research project, each student should have their own project. 
 
-In this stage, you may apply all the material covered in the course, but you can also venture beyond. e.g. you may decide to 
+In this stage, you may apply all the material covered in the course, but you can also venture beyond. e.g. you may decide to:
 
-1. Develop a specific analytical workflow for:
-  1. A specific type of data that you feel is not well-serviced by existing packages in R or Python, or
-  2. A specific analytical problem that need to be executed repeatedely
-2. Package your workflow into an actual R or Python package that can be distributed to your colleagues.
-3. Explore text using Natural Language Processing (NLP). This module is available but will not be part of the core course.
-4. Develop an interactive web-interface to a specific workflow, for training, exploring or reporting results. A short module is available in R for this.
+- Develop a reproducible analytical workflow for a specific type of data that you feel is not well-serviced by existing packages in R or Python.
+- Create an R or Python package that can be distributed to your colleagues that can be used to address a specific set of analytical problems.
+- Explore text using Natural Language Processing (NLP). This module is available but will not be part of the core course.
+- Develop an interactive web-interface to a specific workflow, for training, exploring or reporting results. A short module is available in R for this.
+- Explore a specific algorithim in Data Science that we have not covered in the course by applying it to different data sets and describing e.g. its assumptions, uses, interpretation and limitations.
 
 These are just some ideas -- Data Science is a vast topic, and we are just scratching the surface of the most useful tools in this course. You may decide to go deeper into topics that are not incluced in this course, such as time series forcasting, geospatial data or financial data. 
 
