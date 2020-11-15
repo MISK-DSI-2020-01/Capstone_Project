@@ -47,6 +47,10 @@ A GitHub Repository titled `DS_EDA_example` containing:
 1. Either `Rmarkdown` or `ipynb` documents,
 2. An explanatory `readme.md` file for the repo.
 
+#### Due
+
+End of week 8 (19 Nov 2020)
+
 #### Evaluation metrics
 
 Minimum:
@@ -79,6 +83,10 @@ A GitHub repository titled `DS_Research_*`, where `*` is the name of your datase
 
 1. An `Rmarkdown` **and** `ipynb` documents using at least one data set obtained from Kaggle or Tidy Tuesday.
 2. An explanatory `readme.md` file for the repo.
+
+#### Due
+
+End of week 8 (19 Nov 2020)
 
 #### Evaluation metrics
 
@@ -114,6 +122,10 @@ A GitHub repository titled `DS_ML_*`, where `*` is the name of your dataset, e.g
 
 1. `Rmarkdown` **and** `ipynb` documents where you explore either classification of regression using a variety of methods discuss in class.
 2. An explanatory `readme.md` file for the repo.
+
+#### Due
+
+End of week 9 (26 Nov 2020)
 
 #### Evaluation metrics
 
@@ -166,6 +178,10 @@ A GitHub repository titled `DS_Capstone_*`, where `*` is the name of your projec
 - `Rmarkdown` and/or `ipynb` documents as needed.
 - An explanatory `readme.md` file for the repo.
 - The slides for your presentation taking place at the end of the course.
+
+#### Due
+
+- Repository and presentation upload lastest Monday 14 Dec 2020 (Week 12)
 
 ### Obtaining data for your Capstone Project
 
