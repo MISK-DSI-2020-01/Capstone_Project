@@ -17,7 +17,6 @@ Table of Contents
           * [Additional Details](#additional-details)
 
 ## The 4 stages of your portfolio
-======
 
 Throughout the course you have been encouraged to develop your own unique portfolio that will allow you to showcase your skills to colleagues and future employers.
 
