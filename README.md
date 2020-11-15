@@ -1,3 +1,21 @@
+Table of Contents
+=================
+
+      * [The 4 stages of your portfolio](#the-4-stages-of-your-portfolio)
+         * [Stage 1: EDA, Data Visualization and programming basics](#stage-1-eda-data-visualization-and-programming-basics)
+            * [Deliverable](#deliverable)
+            * [Evaluation metrics](#evaluation-metrics)
+         * [Stage 2: Developing a research question and analysis](#stage-2-developing-a-research-question-and-analysis)
+            * [Deliverable](#deliverable-1)
+            * [Evaluation metrics](#evaluation-metrics-1)
+         * [Stage 3: Machine Learning Discovery](#stage-3-machine-learning-discovery)
+            * [Deliverable](#deliverable-2)
+            * [Evaluation metrics](#evaluation-metrics-2)
+         * [Stage 4: The Capstone Project](#stage-4-the-capstone-project)
+            * [Deliverable](#deliverable-3)
+         * [Obtaining data for your Capstone Project](#obtaining-data-for-your-capstone-project)
+      * [Additional Details](#additional-details)
+
 
 ## The 4 stages of your portfolio
 
