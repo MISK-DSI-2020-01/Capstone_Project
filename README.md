@@ -112,7 +112,7 @@ The goal here is to showcase your comprehension of various machine learning meth
 
 A GitHub repository titled `DS_ML_*`, where `*` is the name of your dataset, e.g. `DS_ML_energy`. This should contain:
 
-1. `Rmarkdown` and/or `ipynb` documents where you explore either classification of regression using a variety of methods discuss in class.
+1. `Rmarkdown` **and** `ipynb` documents where you explore either classification of regression using a variety of methods discuss in class.
 2. An explanatory `readme.md` file for the repo.
 
 #### Evaluation metrics
