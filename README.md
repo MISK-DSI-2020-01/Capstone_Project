@@ -44,7 +44,7 @@ Thus, the data sets used here are very small, clean, easy-to-work-with and well-
 
 A GitHub Repository titled `DS_EDA_example` containing:
 
-1. Either `Rmarkdown` or `ipynb` documents,
+1. Either `Rmarkdown` or `ipynb` documents (output to HTML!)
 2. An explanatory `readme.md` file for the repo.
 
 #### Due
@@ -56,7 +56,7 @@ End of week 8 (19 Nov 2020)
 Minimum:
 - Does the GitHub repo exist?
 - Is the `readme.md` informative?
-- Is there at least one R or Python example file?
+- Is there at least one R or Python example file viewable in HTML?
 - Were the assigned data sets used?
 - Were the commands used appropriate and thorough for an EDA?
 - Is there non-code commentary?
@@ -81,7 +81,7 @@ These data sets are generally very well described, which is a blessing and a cur
 
 A GitHub repository titled `DS_Research_*`, where `*` is the name of your dataset, e.g. `DS_Research_Indian`. This should contain:
 
-1. An `Rmarkdown` **and** `ipynb` documents using at least one data set obtained from Kaggle or Tidy Tuesday.
+1. An `Rmarkdown` **and** `ipynb` documents (output to HTML!) using at least one data set obtained from Kaggle or Tidy Tuesday.
 2. An explanatory `readme.md` file for the repo.
 
 #### Due
@@ -93,7 +93,7 @@ End of week 8 (19 Nov 2020)
 Minimum:
 - Does the GitHub repo exist?
 - Is the `readme.md` informative?
-- Is there at least one R and one Python example file?
+- Is there at least one R and one Python example file viewabel in HTML?
 - Is the source of the data set clear?
 - Is there a clear research question that this data set will be used to address?
 - Has an analysis been conducted that answers the proposed research question?
@@ -120,7 +120,7 @@ The goal here is to showcase your comprehension of various machine learning meth
 
 A GitHub repository titled `DS_ML_*`, where `*` is the name of your dataset, e.g. `DS_ML_energy`. This should contain:
 
-1. `Rmarkdown` **and** `ipynb` documents where you explore either classification of regression using a variety of methods discuss in class.
+1. `Rmarkdown` **and** `ipynb` documents (output to HTML!) where you explore either classification of regression using a variety of methods discuss in class.
 2. An explanatory `readme.md` file for the repo.
 
 #### Due
@@ -132,7 +132,7 @@ End of week 9 (26 Nov 2020)
 Minimum:
 - Does the GitHub repo exist?
 - Is the `readme.md` informative?
-- Is there at least one R or Python example file?
+- Is there at least one R or Python example file viewable in HTML?
 - Is the source of the data set clear?
 - Is there a clear classification or regression research question that this data set will be used to address?
 - Has an analysis been conducted that answers the proposed research question?
